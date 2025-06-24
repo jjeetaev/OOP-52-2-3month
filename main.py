@@ -1,4 +1,4 @@
-# sudo apt install libmpv1
+# sudo apt install libmpv12
 import flet as ft
 from datetime import datetime
 
